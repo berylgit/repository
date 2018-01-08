@@ -1,7 +1,1 @@
-# repository
-echo "# repository" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/berylgit/repository.git
-git push -u origin master
+This file just test some operation about gitHub.
